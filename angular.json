@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "kitoweo-frontend"
+  "defaultProject": "kitoweo-frontend",
+  "cli": {
+    "analytics": "99b39b2f-9931-4c0a-b490-57c19b500eee"
+  }
 }
